@@ -1,0 +1,14 @@
+{
+  "name": "shyam",
+  "version": "1.0.0",
+  "description": "its an amazing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shyam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
