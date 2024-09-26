@@ -2,8 +2,10 @@
 
 // const simple = require("./modulesecond")
 
+//---------------------------------------------------------------------------------------
 
 
+// "type":"module",   --> need to be used in the package.json file for using es6 module
 
 //ES6 Module
 // import {simple} from "./modulesecond.mjs"
