@@ -1,0 +1,15 @@
+{
+  "name": "advanced-node-js",
+  "version": "1.0.0",
+  "description": "its an amazing tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shyam singh",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
